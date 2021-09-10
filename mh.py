@@ -17,10 +17,6 @@ class MontyGame:
             self.all_door[i] = False
         self.all_door[car_door - 1] = True
 
-    def get_result(self, door_number):
-        assert door_number < len(self.all_door)
-        return self.all_door[door_number]
-
     def choose_door(self,your_choice )-> int:
         # you choose a door, and monty open another door, 
         # and return you the door number that has a goat
