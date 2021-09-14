@@ -3,6 +3,6 @@ If you don't know probability or think that it is hard to understand the proof, 
 why don't you just actually play it many times and see the result?
 
 ### Here are some assumptions:
-1. You want the car.
+1. You don't want a goat.
 1. The player randomly choose a door.
 2. The monty always open a door which has a goat and not the player's door.
